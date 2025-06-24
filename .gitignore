@@ -1,5 +1,5 @@
-# Sταking
-Sταking/core/db/daily.db
+# Testing1
+Testing1/core/db/*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
