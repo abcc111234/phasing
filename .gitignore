@@ -1,5 +1,5 @@
 # Testing1
-Testing1/core/db/*.db
+Testing/core/db/*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
